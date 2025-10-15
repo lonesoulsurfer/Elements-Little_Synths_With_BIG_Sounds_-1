@@ -1,3 +1,6 @@
+<img width="1024" height="681" alt="image" src="https://github.com/user-attachments/assets/dd208e9c-4adc-42b7-93b7-e1dbed737f42" />
+
+
 Check out the video to see it in action - https://www.youtube.com/watch?v=f492427Ovs0
 
 Instructables - https://www.instructables.com/Elements-Little-Synths-With-Big-Sounds-1/
