@@ -18,12 +18,30 @@ Elements is a small analogue synth. It has a pulse-width-modulated (PWM) oscilla
 - The front panel is a PCB that fits over the main board
 - No case and no complex power supply, to keep the build easy
 
-> **Note:** These design files are not in this repository yet:
-> - Eagle files (schematic and board)
-> - Gerber files for the PCB and the front panel
-> - Parts list
+## What you need
 
-Until these files are here, the [Instructables guide](https://www.instructables.com/Elements-Little-Synths-With-Big-Sounds-1/) has the build information.
+- All parts are in the parts list ([PDF](Parts%20List/Elements%20-%20Parts%20List%20-%20Excel.pdf) or Excel).
+- The schematic is [schematic.png](schematic.png).
+- The Gerber files for the PCB and the front panel are in [Gerber Files](Gerber%20Files/). You can send them to a PCB maker.
+
+## Build it
+
+The Instructables guide shows each step, with photos. In short:
+
+1. Send the Gerber files to a PCB maker.
+2. Get the parts in the parts list.
+3. Solder the parts to the PCB.
+4. Attach the front panel PCB.
+5. Connect the power and test the synth.
+
+## Files in this repository
+
+| Folder or file | Contents |
+|----------------|----------|
+| `Eagle Files/` | Eagle files for the PCB |
+| `Gerber Files/` | Gerber files for the PCB and the front panel, ready to order |
+| `Parts List/` | Parts list (PDF and Excel) |
+| `schematic.png` | Schematic |
 
 ## Support
 
