@@ -1,32 +1,36 @@
-<img width="1024" height="681" alt="image" src="https://github.com/user-attachments/assets/dd208e9c-4adc-42b7-93b7-e1dbed737f42" />
+# Elements: Little Synths With BIG Sounds #1
 
+Elements is a small analogue synth. It has a pulse-width-modulated (PWM) oscillator and a resonant low-pass filter. It is number 1 in my "Little synths with BIG sounds" series.
 
-Check out the video to see it in action - https://www.youtube.com/watch?v=f492427Ovs0
+<img width="1024" height="681" alt="Elements" src="https://github.com/user-attachments/assets/dd208e9c-4adc-42b7-93b7-e1dbed737f42" />
 
-Instructables - https://www.instructables.com/Elements-Little-Synths-With-Big-Sounds-1/
+## Build guide and video
 
+- Step-by-step build guide on Instructables: [Elements - Little Synths With Big Sounds #1](https://www.instructables.com/Elements-Little-Synths-With-Big-Sounds-1/)
+- Video on YouTube: [Elements](https://www.youtube.com/watch?v=f492427Ovs0)
 
-This synth which I've called 'elements', builds on a number of other electronic projects that I have published on Instructables. The synth is based around a pulse width modulated (PWM) oscillator routed through a resonant low pass filter. There are a number of ways to control the 'growling' tonality of this synth, either through a couple of light dependent resistors (LDR's) or through LED control via a couple vactrol's (LED and LDR connected together).
+## Features
 
+- PWM oscillator with a "growling" sound, through a resonant low-pass filter
+- Control the sound with 2 light-dependent resistors (LDRs), or with LEDs through 2 vactrols
+- Knobs for cutoff, speed, modulation and resonance
+- CV and gate outputs, to connect a sequencer or other synths
+- The front panel is a PCB that fits over the main board
+- No case and no complex power supply, to keep the build easy
 
-But that's not all! There are a bunch of other potentiometers to control cutoff, speed, modulation, and resonance .
+> **Note:** These design files are not in this repository yet:
+> - Eagle files (schematic and board)
+> - Gerber files for the PCB and the front panel
+> - Parts list
 
+Until these files are here, the [Instructables guide](https://www.instructables.com/Elements-Little-Synths-With-Big-Sounds-1/) has the build information.
 
-The front panel is actually a PCB which you can easily get printed up by a PCB manufacturer. I designed it so it fits perfectly over the board giving the synth a really great finish.
+## Support
 
+Do you like this project? You can support my work on [GitHub Sponsors](https://github.com/sponsors/lonesoulsurfer).
 
-Oh and I forgot to mention that I also included CV and gate outputs so you can hook it up to a sequencer or other synths.
+## Licence
 
+This project uses the [CERN Open Hardware Licence v2, Strongly Reciprocal](LICENSE) (CERN-OHL-S-2.0). Copyright (c) 2025 Marcus (lonesoulsurfer).
 
-All this means that this synth is a blast to play around with.
-
-
-I've kept everything as simple as possible on this build so anyone who can solder will be able to make it. I've done away with a case and fancy power supplies to keep the build easy.
-
-
-I'll be doing a series of 'little synths with big sounds' builds like this so keep an eye out for them.
-
-
-I had a few goals when building this synth. It had to be fun to play, be able to connect to external inputs like a sequencer and to keep it as simple as possible!
-
-
+You can make, change and sell boards from these files. If you share or sell a changed design, you must also share the changed design files under the same licence.
